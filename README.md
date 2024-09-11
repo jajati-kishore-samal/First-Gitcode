@@ -1,4 +1,4 @@
 # First-Gitcode
 This is my first repository.
 <br>
-Author - Jajati 
+Author - Jajati (Naresh it)
